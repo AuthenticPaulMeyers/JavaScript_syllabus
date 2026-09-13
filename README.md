@@ -121,6 +121,8 @@ JavaScript can:
 ## 16. JavaScript Fetch API
 
 - [JavaScript Fetch API](https://www.w3schools.com/js/js_api_fetch.asp)
+- [JavaScript Fetch API - Video](https://youtu.be/37vxWr0WgQk)
+- [JavaScript Advice API - Use API for Practice](https://api.adviceslip.com/)
 
 ## 17. JavaScript JSON
 
@@ -143,6 +145,7 @@ JavaScript can:
 ### 19.3. Asynchronous Study Path
 
 - [Asynchronous Study Path](https://www.w3schools.com/js/js_asynchronous.asp)
+- [JavaScript Async - Video ](https://youtu.be/QSqc6MMS6Fk)
 
 ### 19.4. JavaScript Modules
 
