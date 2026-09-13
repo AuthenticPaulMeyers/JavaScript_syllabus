@@ -109,6 +109,7 @@ JavaScript can:
 ## 13. The HTML Document Object Model (Very Important)
 
 - [The HTML Document Object Model](https://www.w3schools.com/js/js_htmldom.asp)
+- [The HTML Document Object Model (video)](https://youtu.be/wbQLEXg_urE)
 
 ## 14. JavaScript Events
 
@@ -173,6 +174,8 @@ JavaScript can:
 - [Project 2 - Event Listener](https://www.w3schools.com/js/js_project_eventlistener.asp)
 - [Project 3 - To-Do List](https://www.w3schools.com/js/js_project_todo.asp)
 - [Project 4 - Modal Popup](https://www.w3schools.com/js/js_project_modal_popup.asp)
+- [Project 5 - Shopping Cart(video)](https://youtu.be/YeFzkC2awTM)
+- [Project 6 - Fetch Data (Video)](https://youtu.be/ubw2hdQIl4E)
 
 
 
